@@ -61,3 +61,17 @@ p {
   color: white;
 
 }
+
+#footer {
+
+  background-color: dimgray;
+  text-align: left;
+
+}
+
+#footer p {
+
+  color: white;
+  font-size: 11px;
+
+}
