@@ -14,11 +14,23 @@ h1 {
 
 #header {
 
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 
 }
 
 #header h1, h4 {
+
+  color: white;
+
+}
+
+#ny {
+
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
+}
+
+#ny h4{
 
   color: white;
 
